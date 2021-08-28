@@ -25,7 +25,9 @@
     <ClCompile Include="11049(DP)5월 14일(오답노트X).cpp" />
     <ClCompile Include="11053(DP, 기본)4월 23일.cpp" />
     <ClCompile Include="11066%28DP%295월 13일%28오답노트%29.cpp" />
-    <ClCompile Include="1107%28완전탐색%294월 19일.cpp" />
+    <ClCompile Include="1107%28완전탐색%294월 19일.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1167%28DFS, 트리의 지름%29.cpp" />
     <ClCompile Include="11725%28DFS, 외판원%294월 22일.cpp" />
     <ClCompile Include="12100(구현, 시뮬레이션, DFS).cpp" />
