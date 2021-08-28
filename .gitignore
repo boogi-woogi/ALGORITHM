@@ -34,3 +34,5 @@
 
 *.ipch
 .vs/
+.vs/test/v16/.suo
+*.db
