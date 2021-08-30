@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7576%28BFS, DFS, 기본%294월 22일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -45,7 +42,7 @@
     <ClCompile Include="1963%28BFS, 에라토스테네스체%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9019(뒤지게 귀찮아서 안함).cpp">
+    <ClCompile Include="9019%28구현, BFS, DFS%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1525%28BFS, 문자열%294월 20일.cpp">
@@ -99,7 +96,7 @@
     <ClCompile Include="14719(구현, 시뮬레이션)6월 7일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1062(개병신같이 계속 틀린 문제, 완전 탐색)6월 7일.cpp">
+    <ClCompile Include="1062%28완전 탐색%296월 7일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1700(그리디 알고리즘, 아이디어 몰랐음)6월 8일.cpp">
@@ -109,6 +106,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12100(구현, 시뮬레이션, DFS).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1149(DP, 기출문제).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
