@@ -70,6 +70,7 @@
     <ClCompile Include="1700(그리디 알고리즘, 아이디어 몰랐음)6월 8일.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1753(다익스트라).cpp" />
     <ClCompile Include="1806(투포인터 알고리즘)6월 10일.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
