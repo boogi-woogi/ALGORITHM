@@ -114,7 +114,10 @@
     <ClCompile Include="7562(완전탐색).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1753(다익스트라).cpp">
+    <ClCompile Include="2281(DP).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2023(백트래킹).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
