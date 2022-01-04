@@ -123,5 +123,11 @@
     <ClCompile Include="16197(백트래킹).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5557%28DP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1292(손풀기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
