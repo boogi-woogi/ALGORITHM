@@ -147,7 +147,10 @@
     <ClCompile Include="1789(수학, 그리디).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9470.cpp">
+    <ClCompile Include="9470%28위상정렬, 그래프%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1005(위상정렬, 그래프).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
