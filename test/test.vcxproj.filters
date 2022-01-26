@@ -153,7 +153,10 @@
     <ClCompile Include="1005(위상정렬, 그래프).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2533.cpp">
+    <ClCompile Include="2533%28DP, 트리%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14238.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
