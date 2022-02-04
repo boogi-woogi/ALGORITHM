@@ -166,7 +166,10 @@
     <ClCompile Include="9470%28위상정렬, 그래프%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="9935(문자열).cpp" />
+    <ClCompile Include="9663(백트래킹).cpp" />
+    <ClCompile Include="9935(문자열).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
